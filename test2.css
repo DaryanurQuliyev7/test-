@@ -1,0 +1,41 @@
+* {
+box-sizing: border-box;
+margin: 0%;
+padding: 0%;
+}
+
+.container {
+border: 8px solid purple;
+width: 50%;
+margin: 40px auto;
+padding: 60px;
+}
+
+.container h1{
+text-align: center;
+
+}
+
+.container p {
+margin: 14px auto;
+text-align: center;
+}
+.form1 input,textarea{
+    width: max-content;
+}
+
+
+.form1 button{
+display: block;
+margin: 0px auto;
+background-color: purple;
+padding: 16px;
+border: none;
+color: #fff;
+
+
+
+}
+    
+
+}
